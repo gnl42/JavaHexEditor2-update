@@ -1,4 +1,4 @@
-# javahexeditor2-update
+# JavaHexEditor2-update
 
 Fork of https://sourceforge.net/projects/javahexeditor
 
